@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 <br />
 
 ### Connect with me
-[<img align="left" alt="OladejoAbimbola | Gmail" width="30px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" style="max-width: 100%;" />][gmail]
-[<img align="left" alt="OladejoAbimbola | Twitter" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="max-width: 100%;" />][twitter]
-[<img align="left" alt="OladejoAbimbola | GitHub" width="30px" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" />][github]
-[<img align="left" alt="OladejoAbimbola | StackOverFlow" width="30px" src="	https://www.logo.wine/a/logo/Stack_Overflow/Stack_Overflow-Logo.wine.svg" />][stackoverflow]
+[<img align="left" alt="OladejoAbimbola | Gmail"  width="50px" height="40px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" style="max-width: 100%;" />][gmail]
+[<img align="left" alt="OladejoAbimbola | Twitter"  width="50px" height="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="max-width: 100%;" />][twitter]
+[<img align="left" alt="OladejoAbimbola | GitHub" width="50px" height="40px" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" />][github]
+[<img align="left" alt="OladejoAbimbola | StackOverFlow" width="80px" height="50px" src="https://www.logo.wine/a/logo/Stack_Overflow/Stack_Overflow-Logo.wine.svg" />][stackoverflow]
 
 [gmail]:https://www.abimbolaoladejo4@gmail.com
 [twitter]: https://www.twitter.com/_Nimi77
