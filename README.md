@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 [<img src="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][github]
 
 [<img src="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][github]
-[<img src="left" alt="C#" width="30px" src=""/>][github]
+[<img src="left" alt="C#" width="30px" src="https://e7.pngegg.com/pngimages/328/221/png-clipar…dio-net-framework-javascript-icon-purple-logo.png"/>][github]
 <br />
 <br />
 
 ### Connect with me
-[<img align="left" alt="OladejoAbimbola | Gmail" width="30px" src="	https://cdn-icons-png.flaticon.com/512/2875/2875435.png" style="max-width: 100%;" />][gmail]
-[<img align="left" alt="OladejoAbimbola | Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="max-width: 100%;" />][twitter]
-[<img align="left" alt="OladejoAbimbola | GitHub" width="30px" src="	https://cdn-icons-png.flaticon.com/512/3291/3291695.png" />][github]
-[<img align="left" alt="OladejoAbimbola | StackOverFlow" width="30px" src="	https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />][stackoverflow]
+[<img align="left" alt="OladejoAbimbola | Gmail" width="30px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" style="max-width: 100%;" />][gmail]
+[<img align="left" alt="OladejoAbimbola | Twitter" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="max-width: 100%;" />][twitter]
+[<img align="left" alt="OladejoAbimbola | GitHub" width="30px" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" />][github]
+[<img align="left" alt="OladejoAbimbola | StackOverFlow" width="30px" src="	https://www.logo.wine/a/logo/Stack_Overflow/Stack_Overflow-Logo.wine.svg" />][stackoverflow]
 
 [gmail]:https://www.abimbolaoladejo4@gmail.com
 [twitter]: https://www.twitter.com/_Nimi77
