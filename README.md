@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>][github]
-[<img src="left" alt="CSS" width="30px" src="https://ostraining.com/wp-content/uploads/coding/html5-css3-hd.jpg" />][github]
+[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>][github]
+[<img src="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
 
-[<img src="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][github]
-[<img src="left" alt="C#" width="30px" src="https://e7.pngegg.com/pngimages/328/221/png-clipar…dio-net-framework-javascript-icon-purple-logo.png"/>][github]
+[<img src="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][github]
+[<img src="left" alt="C#" width="50px" src="https://e7.pngegg.com/pngimages/328/221/png-clipar…dio-net-framework-javascript-icon-purple-logo.png"/>][github]
 <br />
 <br />
 
