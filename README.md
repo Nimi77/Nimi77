@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/_nimi77" target="blank"><img src="https://img.shields.io/twitter/follow/_nimi77?logo=twitter&style=for-the-badge" alt="_nimi77" /></a> </p>
 
-- 🔭 I’m currently working on [Carousel](https://github.com/Nimi77/Carousel)
+- 🔭 I’m currently working on [iCodeThis Daily Challenge](https://github.com/Nimi77/iCode.git)
 
 - 🌱 I’m currently learning **JavaScript**
 
