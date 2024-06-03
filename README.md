@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/_nimi77" target="blank"><img src="https://img.shields.io/twitter/follow/_nimi77?logo=twitter&style=for-the-badge" alt="_nimi77" /></a> </p>
 
-- 🔭 I’m currently working on [iCodeThis Daily Challenge](https://github.com/Nimi77/iCode.git)
+- 🔭 I’m currently working on [Wrap]([https://github.com/Nimi77/wrap.git])
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Vue Js**
 
 - 👯 I’m looking to collaborate on **any frontend project**
 
 - 📫 How to reach me **abimbolaoladejo4@gmail.com**
 
-- ⚡ Fun fact **I love ME**
+- ⚡ Fun fact **I love to tackle difficult tasks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
