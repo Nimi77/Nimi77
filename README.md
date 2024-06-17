@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abimbola Oladejo</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend Engineer</h3>
 <img align="right" width="400" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="coding" />
 
-<p align="left"> <a href="https://twitter.com/_nimi77" target="blank"><img src="https://img.shields.io/twitter/follow/_nimi77?logo=twitter&style=for-the-badge" alt="_nimi77" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_nimistarr" target="blank"><img src="https://img.shields.io/twitter/follow/_nimi77?logo=twitter&style=for-the-badge" alt="_nimistarr" /></a> </p>
 
 - 🔭 I’m currently working on [Wrap]([https://github.com/Nimi77/wrap.git])
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_nimi77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nimi77" height="30" width="40" /></a>
+<a href="https://twitter.com/_nimistarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nimistarr" height="30" width="40" /></a>
 <a href="https://instagram.com/toluwanimiabimbola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toluwanimiabimbola" height="30" width="40" /></a>
 </p>
 
