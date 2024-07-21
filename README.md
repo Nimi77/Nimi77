@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/_nimistarr" target="blank"><img src="https://img.shields.io/twitter/follow/_nimi77?logo=twitter&style=for-the-badge" alt="_nimistarr" /></a> </p>
 
-- 🔭 I’m currently working on [Wrap]([https://github.com/Nimi77/wrap.git])
+- 🔭 I’m currently working on [Scissors]([https://github.com/Nimi77/scissor.git])
 
-- 🌱 I’m currently learning **Vue Js**
+- 🌱 I’m currently building projects with different JavaScript Framework and also equipping them with typescript. 
 
 - 👯 I’m looking to collaborate on **any frontend project**
 
